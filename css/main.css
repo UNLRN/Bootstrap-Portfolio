@@ -8007,6 +8007,14 @@ i {
     position: relative;
 }
 
+@media screen and (max-width: 992px) {
+    .content .img-content {
+        height: 300px;
+        width: 400px;
+        margin: 25px auto;
+    }
+}
+
 .content img {
     margin-bottom: 30px;
 }
